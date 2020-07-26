@@ -4,5 +4,6 @@
 
 
 lscpu
-cat /etc/*reease
+cat /etc/*release
 nproc
+lsblk
