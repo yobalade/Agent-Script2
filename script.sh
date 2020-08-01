@@ -9,4 +9,8 @@
 lscpu
 cat /etc/*release
 nproc
+ newfeature
+
+echo "everything run successfully"
 lsblk
+master
