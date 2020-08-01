@@ -1,6 +1,6 @@
 #!/bin/bash
 #Author: Yewande
-#Date: July, 2020
+#Date: July 2020
 
 
 
